@@ -1,0 +1,15 @@
+{
+  "hash": "6bbbf7c798e912add13658d65993d972",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Projects\"\n---\n\n\nHere you can demonstrate your projects\n\n\n::: {.cell}\n\n```{.r .cell-code}\nsample(1:100)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n  [1]  24  60  57  64  17  70  84  89  22  43  65  31  63  49  67  83  53  71\n [19]  86  96  13  90  79  36  97  46 100  30  75  37  44  26   9  73  23  50\n [37]  56  93  12  48  87  33   6  94  14  47  58  18  25   1  20  41  92  82\n [55]  28  99  78  66  16  45  59  74  51  40  80  42  68  32  81  55  54  77\n [73]  91  88  35   4   3   2  95   7  61  15  52  34  29  62  72  69  10  39\n [91]  85  98   5  21  76  11  27   8  19  38\n```\n\n\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "hash": "1cff58cfa4fa7b4cc55d0611ea0f0369",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Bio\"\n---\n\n\n\nAbout this dope site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 3\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
