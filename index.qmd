@@ -1,12 +1,26 @@
 ---
+title: "Taig Lonergan"
 toc: false
 about:
   template: trestles
   links: 
     - icon: linkedin
       text: LinkedIn
-      url: www.linkedin.com/in/taiglonergan
+      url: https://www.linkedin.com/in/taiglonergan
+    - icon: github
+      text: Github
+      url: https://github.com/taiglonergan
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:taiglonergan@gmail.com"
 image: profile-picture.jpeg
 ---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
+
+Hello! My name is Taig and I am a senior at UCLA majoring in both Economics and Statistics & Data Science. I graduate in December of 2024 and am excited to begin my professional journey in the intersection of business and data science. This summer I embark on the next step in my career as a Business Analyst intern for CarMax in Richmond, Virginia. Attached is my current [resume](/docs/Resume/Taig Lonergan Resume.pdf "Resume") for anyone interested.
+
+Outside of the lecture halls, I am President of Special Olympics at UCLA and serve as Treasurer of the UCLA Men's Club Soccer team. I enjoy living an active and healthy lifestyle, which includes cooking, running, and playing soccer with anyone and everyone. I am a lifelong Manchester United fan and you can find me most Saturday mornings at 7am watching us lose to a team in the relegation zone.
+
+Feel free to explore this website to learn more about me personally, academically, and professionally!
+
