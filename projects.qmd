@@ -1,3 +1,7 @@
+---
+toc: false
+---
+
 ## Projects
 
 Making this website has been a huge wake-up call for how important it is to do projects as a demonstration of knowledge and as a tool to continue learning in unique ways. As of today, I do not have any personal projects to post here, nor do I have relevant work experience. Furthermore, my classroom projects excluding the ones finishing up now this quarter are stuck in local folders on my old computer that is currently in San Francisco. However, I will be working on projects in Spring quarter and working with data in my internship this summer, so check back here in 6 months for a catalog of data science projects!
