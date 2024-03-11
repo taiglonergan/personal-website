@@ -1,7 +1,12 @@
 ---
 toc: false
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: www.linkedin.com/in/taiglonergan
+image: profile-picture.jpeg
 ---
-
-![](profile-picture.jpeg){fig-align="center" width="275"}
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
