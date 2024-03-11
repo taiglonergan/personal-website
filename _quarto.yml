@@ -6,8 +6,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Bio
+      - href: education.qmd
+        text: Education
       - href: projects.qmd
         text: Projects
     right: 
