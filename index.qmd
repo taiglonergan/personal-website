@@ -2,6 +2,6 @@
 toc: false
 ---
 
+![](profile-picture.jpeg){fig-align="center" width="275"}
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-
