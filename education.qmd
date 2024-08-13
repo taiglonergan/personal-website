@@ -1,3 +1,8 @@
+---
+toc: false
+---
+
+
 ## Relevant Education
 
 # University of California, Los Angeles
@@ -7,10 +12,16 @@ Economics, B.A.
 Statistics & Data Science, B.S.
 
 
+### Fall 2024 (future coursework)
+ - Stats 100C: Linear Models
 
-### Winter 2024 (current coursework)
+### Spring 2024
+ - Stats 141XP: Practice of Statistical Consulting (cont.)
+ - Econ 187: Machine Learning for Economists
+
+### Winter 2024
  - Stats 140XP: Practice of Statistical Consulting
- - Math 115A: Linear Algebra
+ - Math 115A: Linear Algebra (Proof-Based)
  
 ### Fall 2023
  - Econ 144: Economic Forecasting
@@ -25,9 +36,8 @@ Statistics & Data Science, B.S.
  
 ### Winter 2023
  - Econ 104: Introduction to Econometrics
- - Econ 187: Federal Reserve and Monetary Policy
- - Stats 101B: Introduction to Design and Analysis of Experiment
- - Stats 102C: Introduction to Computation and Optimization for Statistics
+ - Econ 131: Economics of Healthcare
+ - Econ 160: Money and Banking
  
 ### Fall 2022
  - Econ 111: Theories of Economic Development
@@ -50,7 +60,7 @@ Statistics & Data Science, B.S.
  
 ### Winter 2021
  - Math 32A: Calculus of Several Variables
- - Computing 10A: Introduction to Computing (in C++)
+ - Computing 10A: Introduction to Computing (C++)
 
 ### Fall 2020
  - Math 31B: Integration and Infinite Series
