@@ -4,5 +4,5 @@ toc: false
 
 ## Projects
 
-This is how where the data science portfolio will be.
+This is where the data science portfolio will be.
 
